@@ -1,7 +1,7 @@
 {
   "name": "@ehacke/prettier-config",
   "description": "Node-focused prettier config",
-  "version": "1.0.3",
+  "version": "2.0.0",
   "author": "Eric Hacke",
   "bugs": {
     "url": "https://github.com/ehacke/prettier-config/issues"
