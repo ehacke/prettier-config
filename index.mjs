@@ -1,4 +1,4 @@
-module.exports = {
+export default {
   printWidth: 150,
   tabWidth: 2,
   semi: true,
